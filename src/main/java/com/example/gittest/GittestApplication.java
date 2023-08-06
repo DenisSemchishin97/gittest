@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GittestApplication {
 
-    public static void main(String[] args)32 {
+    public static void main(String[] args) {
+        System.out.println();
         SpringApplication.run(GittestApplication.class, args);
-          public static void main(String[] args)32 {
-        SpringApplication.run(GittestApplication.class, args);
+        System.out.println();
         System.out.println();
     }
 
